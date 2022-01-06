@@ -1,0 +1,10 @@
+cached-property
+flake8
+isort
+matplotlib
+numpy
+pandas
+pytorch_lightning
+seaborn
+torch
+xgboost
