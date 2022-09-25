@@ -23,3 +23,6 @@ Finally, to generate plots, run
 `python -m src.experiment.experiment2_results`
 
 Plots will appear in the `img` directory inside the base directory.
+
+
+Disclaimer: This code is offered publicly with the MIT License, meaning that others can use it for any purpose, but we are not liable for any issues arising from the use of this code. Please cite our work if you found this code useful.
