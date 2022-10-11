@@ -1,5 +1,9 @@
 # Neural Causal Models
 
+This repository contains the code for the paper ["The Causal-Neural Connection: Expressiveness, Learnability, and Inference"](https://arxiv.org/abs/2107.00793) by Kevin Xia, Kai-Zhan Lee, Yoshua Bengio, and Elias Bareinboim.
+
+## Running the Code
+
 To run the identification experiments, navigate to the base directory of the repository and run
 
 `python -m src.experiment.experiment1 Experiment1 -G all -t 20 --n-epochs 3000 -r 4`
